@@ -1,1 +1,1 @@
-# mm2-stealer
+# mm2
